@@ -1,2 +1,3 @@
 # google_homepage
-My first repository on github
+
+This is a exercise to replicate the visual appearance and some of the functionality of google. 
